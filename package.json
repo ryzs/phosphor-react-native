@@ -1,5 +1,5 @@
 {
-  "name": "@ryzs/phosphor-react-native",
+  "name": "phosphor-react-native",
   "version": "2.1.0",
   "description": "Flexible icons for React Native",
   "main": "lib/commonjs/lib/index.js",
